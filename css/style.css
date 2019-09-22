@@ -61,6 +61,7 @@ h4 {
 }
 
 img {
-  border: 1px;
-  
+  border-width: 1px;
+  border: solid;
+  border-color: black;
 }
