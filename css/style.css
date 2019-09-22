@@ -63,6 +63,6 @@ h4 {
 img {
   border-width: 0.5px;
   border: solid;
-  border-color: grey;
+  border-color: dark-grey;
   box-sizing: border-box;
 }
